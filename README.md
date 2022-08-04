@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aburak621
+- 👋 Hi, I’m Aydın Burak "Kakule" Kuşçu
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Web Development
 
